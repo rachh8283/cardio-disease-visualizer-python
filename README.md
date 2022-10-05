@@ -6,7 +6,7 @@ This data set includes information about patients including body measurements, l
 
 ## Goal
 Explore the relationship between cardiovascular disease, lifestyle choices, body measurements, and blood test results. 
-Create a chart that shows counts for good and bad outcomes for cholesterol, glucose, alcohol, active, and smoking variables in patinets with cardiovascular disease (cardio=1) and without disease (cardio=0).
+Create a chart that shows counts for good and bad outcomes for cholesterol, glucose, alcohol, active, and smoking variables in patients with cardiovascular disease (cardio=1) and without disease (cardio=0).
 
 ## Tasks
 -  Add obese column by calculating BMI that is over 30. Calculated by dividing weight in kg by height in m. If the value is > 30, the person is obese, using 0 for not obese and 1 for obese. 
