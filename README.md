@@ -23,3 +23,5 @@ Create a chart that shows counts for good and bad outcomes for cholesterol, gluc
 
 ## Interpretation
 This data indicates that most of the variables are strongly correlated with heart disease. In the catplot bar chart, cholesterol and obesity are most dramatic The heat map shows the most correlated variables to be weight-obesity, gender-smoke, cholesterol-glucose, and gender-height.
+
+Important to note that for gender, 1 = female and 2 = male. 
